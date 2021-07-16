@@ -23,3 +23,5 @@ flutter - engin
 	https://www.spyder-ide.org/
 	https://jupyter.org/
 	
+	
+-- 2. kodlar	

@@ -1,0 +1,25 @@
+-- btkakademi
+design pattern
+huave mobil srv
+c# -> design pattern de var
+ileri proje yön.
+	jira
+	project libra
+api ve api test
+	swagger
+kodlama.io 
+	- youtube
+		engin demiroğ
+		Yazılım Bilimi  (mustafa murat coşkun)
+firebase vs. azure	
+1 python (veri bilimi)
+2 makina öğrenmesi (şeş) -- AI inisiyatifi
+3 keras (colab google tensorflow)
+	neofetch
+	jupiter notebook
+yazılım test otomasyonu
+	selenium
+flutter - engin	
+	https://www.spyder-ide.org/
+	https://jupyter.org/
+	
